@@ -1,2 +1,2 @@
 # RustOXY
-Light weight and a simple proxy server in rust
+Light weight and a simple proxy server in Rust language
